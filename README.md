@@ -1,6 +1,7 @@
 ## 👋 Hi there!
 I am a MSc student in **Computer Engineering** at Politecnico of Milan.  
 Thanks to my studies, I have developed solid skills in _software design and implementation_.
+
 ---
 ### 🎓 Education:
 * Master of Science in Computer Engineering at *Politecnico of Milan*
