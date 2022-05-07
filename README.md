@@ -9,9 +9,9 @@ Thanks to my studies, I have developed solid skills in different fields such as 
 * Bachelor of Science in Computer Engineering at *University of Pavia*
 ---
 ### 📌 Main Projects:
-* [Music-Playlist](https://github.com/RiccardoZanaboni/TIW-MusicPlaylist): design and implementation of a web application that allows management of a music playlist.
-* [Music-Playlist](https://github.com/RiccardoZanaboni/Progetto-H19-1): development of a pizza delivery application.
-* [Music-Playlist](https://github.com/RiccardoZanaboni/TIW-MusicPlaylist): design and implementation of a web application that allows management of a music playlist.
+* [Music-Playlist](https://github.com/RiccardoZanaboni/TIW-MusicPlaylist): design and implementation of a **web application** that allows management of a music playlist.
+* [Sensor-Pattern-Analysis](https://github.com/RiccardoZanaboni/sensor-pattern-analysis): Analysis of the behaviour of people in in a **domotic** apartment.
+* [Pizza-Delivery](https://github.com/RiccardoZanaboni/Progetto-H19-1): development of a pizza delivery application.
   
 ---
 ### 📫 Contacts:
