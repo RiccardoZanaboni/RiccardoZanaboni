@@ -1,6 +1,7 @@
-## 👋 Hi there!
+<h2 align="center" style="font-weight:bold"> <b> 👋 Hi there! </h2>
+  
 I am a MSc student in **Computer Engineering** at Politecnico of Milan.  
-Thanks to my studies, I have developed solid skills in _software design and implementation_.
+Thanks to my studies, I have developed solid skills in different fields such as : `Software Engineering`, `Deep Learning` and `Web Technologies`
 
 ---
 ### 🎓 Education:
