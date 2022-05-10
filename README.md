@@ -20,6 +20,6 @@ Thanks to my studies, I have developed solid skills in different fields such as 
 ---
 ### 👦🏻 About me:
 * 🧠 Constantly looking for new things to learn
-* ⚽ Love soccer
+* ⚽🏀 Love soccer and basketball
 * 🎵🎬 Music and Cinema
 * 🗺 Travel and discover the world
