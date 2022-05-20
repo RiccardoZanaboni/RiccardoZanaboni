@@ -12,6 +12,7 @@ Thanks to my studies, I have developed solid skills in different fields such as 
 * [Sensor-Pattern-Analysis](https://github.com/RiccardoZanaboni/sensor-pattern-analysis): analysis of the behaviour of people in in a **domotic** apartment.
 * [Music-Playlist](https://github.com/RiccardoZanaboni/MusicPlaylist): design and implementation of a **web application** that allows management of a music playlist.
 * [Pizza-Delivery](https://github.com/RiccardoZanaboni/Pizza-Delivery): development of a pizza delivery application.
+* [Artificial Neural Network and Deep Learning competition](https://github.com/RiccardoZanaboni/Artificial-Neural-Networks-competition): **Neural networks** for Classification and Time series forecasting.
   
 ---
 ### 📫 Contacts:
