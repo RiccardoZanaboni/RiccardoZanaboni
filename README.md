@@ -13,7 +13,7 @@ Thanks to my studies, I have developed solid skills in different fields such as 
 * [Music-Playlist](https://github.com/RiccardoZanaboni/MusicPlaylist): design and implementation of a **web application** that allows management of a music playlist.
 * [Pizza-Delivery](https://github.com/RiccardoZanaboni/Pizza-Delivery): development of a pizza delivery application.
 * [Artificial Neural Network and Deep Learning competition](https://github.com/RiccardoZanaboni/Artificial-Neural-Networks-competition): **Neural networks** for Classification and Time series forecasting.
-* [Italian-Sunday-Energy-Consumption-Prediction]([https://github.com/RiccardoZanaboni/Pizza-Delivery](https://github.com/RiccardoZanaboni/Italian-Sunday-Energy-Consumption-Prediction): Identify a model for the time series value of the Italian sunday energy consumption as a function of day of the year and time of day.
+* [Italian-Sunday-Energy-Consumption-Prediction](https://github.com/RiccardoZanaboni/Italian-Sunday-Energy-Consumption-Prediction): Identify a model for the time series value of Italian sunday energy consumption as a function of day of the year and time of day.
   
 ---
 ### 📫 Contacts:
